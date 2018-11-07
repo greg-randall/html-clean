@@ -1,0 +1,1 @@
+This tool attempts to remove all html code that isn't directly related to how the content is put together. For example it removes all <div> but leaves all <p>. It also removes all classes, ids, etc but leaves images and links.
